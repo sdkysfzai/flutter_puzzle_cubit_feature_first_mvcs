@@ -13,6 +13,11 @@ Kaleidoku is a colorful and exciting Flutter application that provides users wit
 - Flutter
 - GraphQL
 
+## Architecture & State Management
+
+- Bloc/Cubit
+- Feature First MVCS
+
 ## Getting Started
 
 ### Prerequisites
@@ -37,4 +42,4 @@ cd Kaleidoku
 ```
 
 ### License
-This project is licensed under the terms of the MIT license.# flutter_puzzle_cubit_feature_first_mvcs
+This project is licensed under the terms of the MIT license.
